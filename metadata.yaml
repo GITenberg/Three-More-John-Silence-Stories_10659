@@ -1,0 +1,37 @@
+_repo: Three-More-John-Silence-Stories_10659
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: Today, the concept of the supernatural detective has been extensively
+  explored in media like film, television, and books. However, renowned writer of
+  "weird" fiction Algernon Blackwood was one of the first to broach this idea with
+  his highly original character, John Silence. Silence is a brilliant physician whose
+  willingness to delve into the matters dealing with the occult and supernatural leads
+  him on dozens of adventures. This mini-collection is a perfect introduction to the
+  Silence stories.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, English'
+- !lcsh 'Paranormal fiction, English'
+- !lcsh 'Ghost stories, English'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Detective and mystery stories, English'
+- !lcc 'PR'
+- !lcsh 'Silence, John (Fictitious character) -- Fiction'
+- GITenberg
+tableOfContents: Secret worship -- The camp of the dog -- A victim of higher space.
+title: Three More John Silence Stories
+url: http://www.gutenberg.org/ebooks/10659
