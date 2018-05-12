@@ -1,5 +1,8 @@
 _repo: Three-More-John-Silence-Stories_10659
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -15,6 +18,8 @@ description: Today, the concept of the supernatural detective has been extensive
   willingness to delve into the matters dealing with the occult and supernatural leads
   him on dozens of adventures. This mini-collection is a perfect introduction to the
   Silence stories.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10659#Three-More-John-Silence-Stories
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
